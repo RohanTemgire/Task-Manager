@@ -1,0 +1,10 @@
+<resources>
+    <string name="delete_all_tasks">Remove all tasks?</string>
+    <string name="delete_all_tasks_confirmation">Are you sure you want to remove all tasks? There is no going back after this!</string>
+    <string name="delete_task">Remove \'%1$s\'?</string>
+    <string name="delete_task_confirmation">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="app_name">Task Manager</string>
+    <string name="add_button">Add Task</string>
+    <string name="sad_face_icon">Sad Face</string>
+    <string name="empty_content">No tasks found.</string>
+</resources>
